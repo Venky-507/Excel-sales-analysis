@@ -1,2 +1,24 @@
-# Excel-sales-analysis
-This project focuses on analyzing sales dataset using Microsoft Excel to understand regional performance and identity key trends.Data was organized and summarised using formulas such as sumif and visualise through charts to compare sales across different regions.
+# Sales Performance Analysis (Excel Project)
+
+## Overview
+
+This project analyzes sales data to understand regional performance and trends.
+
+## Tools Used
+
+* Microsoft Excel
+* SUMIF formulas
+* Charts
+
+## Key Insights
+
+* South region has highest sales
+* Regional performance varies significantly
+* Data visualization helps identify trends
+
+## Skills Demonstrated
+
+* Data analysis
+* Data visualization
+* Business insight generation
+* 
